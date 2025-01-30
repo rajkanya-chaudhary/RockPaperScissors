@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
-public class TicTacToe {
+public class TicTacToe
+ {
     private static char[][] board = new char[3][3]; // 3x3 game board
     private static char currentPlayer = 'X'; // X starts first
 
